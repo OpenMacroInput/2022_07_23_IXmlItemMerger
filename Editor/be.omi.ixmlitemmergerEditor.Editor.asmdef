@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.omi.ixmlitemmergerEditor",          
+    "references": ["be.omi.ixmlitemmerger"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

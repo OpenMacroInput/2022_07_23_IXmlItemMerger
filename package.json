@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.omi.ixmlitemmerger",                              
+  "displayName": "IXmlItemMerger",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Merge file into one big string and some component based on the first tag name.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/OpenMacroInput/2022_07_23_IXmlItemMerger.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
